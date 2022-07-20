@@ -4,3 +4,5 @@
 <p align="center"> 
   <t>#ImersaoJava</t>
 </p>
+
+Tratamento de imagem usando link externo e criando uma nova imagem com texto em fundo transparente para criação de Stickers.
